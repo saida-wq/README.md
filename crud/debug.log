@@ -1,0 +1,6 @@
+[0416/125315.724:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Users\Public\Documents\Google\Chrome: Le chemin d’accès spécifié est introuvable. (0x3)
+[0416/125315.749:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Le canal de communication a été fermé. (0x6D)
+[0416/125315.751:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Users\Public\Documents\Google\Chrome: Le chemin d’accès spécifié est introuvable. (0x3)
+[0912/231129.954:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Users\Public\Documents\Google\Chrome: Le chemin d’accès spécifié est introuvable. (0x3)
+[0912/231129.987:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Le canal de communication a été fermé. (0x6D)
+[0912/231130.013:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Users\Public\Documents\Google\Chrome: Le chemin d’accès spécifié est introuvable. (0x3)
